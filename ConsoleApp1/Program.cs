@@ -30,8 +30,6 @@ namespace ReferenceVsValue
             List<Rectangle> recList = new List<Rectangle>();
             recList.Add(rec1);
             recList.Add(rec2);
-
-            //Test 
              
             return recList;
         }
